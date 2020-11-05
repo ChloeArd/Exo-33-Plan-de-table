@@ -35,11 +35,11 @@
     }
     .gaucheMilieu {
         position: relative;
-        padding:  0px 100px 0px 240px;
+        left: 240px;
     }
     .droiteMilieu {
         position: relative;
-        padding:  0px 0px 0px 525px;
+        left: 525px;
         bottom: 210px;
     }
     #formateur {
